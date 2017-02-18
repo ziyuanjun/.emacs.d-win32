@@ -1,0 +1,9 @@
+recentf
+*.swp
+\#*
+/.session
+/session.*
+*.elc
+*.log
+*~
+.*.lock
