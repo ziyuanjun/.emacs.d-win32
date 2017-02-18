@@ -1,8 +1,14 @@
-;;; Automatically generated on Sat Feb 18 10:57:49 2017
+;;; Automatically generated on Sat Feb 18 11:38:39 2017
 ;;; Invoked by ZY@Y-A0000C377FC84 using 25.1.1
-(setq-default session-file-alist '(("~/.emacs.d/custom-set-variables.el" 1 nil 1 nil nil 1728 (overwrite-mode))))
-(setq-default file-name-history '("~/.emacs.d/.gitignore" "~/.emacs.d/custom-set-variables.el"))
+(setq-default kill-ring '("ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCTOYKLulBG6SULrRU/1hzaKE7Ftz0Q0EnqSvgyyqJnv/36VliFhvWApdwfI7MT5UKwk9NzzrV4t0/L5C/MV22+UpDtKztlrfvZgPExDSDjEYTVvj8K89u2jMTMF3TReo6B4oJG0nNYT+hnLFBbg008z3r4ru2FyxG05RbmhTe0sV4eyUQRz3yIdzYmIL2FAQ3jISuLBLTg7oAwnodsWhr0b8M8pCL73kZaZLU1WmfmKZsuIZM4xZOv1l/d9PjB2wcjkZPM7ziM2K4fNJtfj0HoomY0+aUJNQTJ4kcqYKj+IFHmDEZb0afdoVUam2JyYEIw4Jw/ZrwzMqs3Zcw0qw0qw8n1js7BAZe0OoC9PJAFfEq+vil5m1hkNr7qOaFn490ogpxZx6sEEsQEp9ZVSL2qRIsVO9S9Jh7/rsZcynhY0Gu276lgSsbirnsbNAMay3etIv/0MjrYpiDzJ9y3dq3XQhJqSSXEQhlrHOkAez1U3IA4pbVtMtoo97c+vdERZm/8DFlq8P+PJ9G3hQ5TmIKgFQuxSRxyIYxbl4wx2OCudZ7n52SK2Srljp4XR30jkz05MgMeCeomr9RZb8F0ResGzUGaEXd0Wwnvd3SOamAs/qAW07q626ra5XxzQFbYfmJnCUPIjS/Y/zQoGP+ViWIO6xbrcjUHv/ujGrOmiEWMmw== xzy_study@163.com" "ssh-keygen -t rsa -b 4096 -C \"your_email@example.com\""))
+(setq-default session-file-alist '(("~/.ssh/id_rsa.pub" 743 1 1 nil nil 1 (overwrite-mode)) ("~/.emacs.d/custom-set-variables.el" 1 nil 1 nil nil 1728 (overwrite-mode))))
+(setq-default file-name-history '("~/.ssh/id_rsa.pub" "~/.emacs.d/.gitignore.bak" "~/.emacs.d/.gitignore" "~/.emacs.d/custom-set-variables.el"))
 (setq-default coding-system-history '("utf-8"))
+(setq-default command-history '((menu-bar-mode (quote toggle))))
+(setq-default counsel-git-grep-cmd-history '("git --no-pager grep --full-name -n --no-color -i -e '%s'"))
+(setq-default evil-jumps-history '((1 "c:/Documents and Settings/ZY/.ssh/id_rsa.pub") (341 "c:/Documents and Settings/ZY/.emacs.d/.gitignore.bak")))
+(setq-default extended-command-history '(#("menu-" 0 5 (ivy-index 5))))
 (setq-default occur-collect-regexp-history '("\\1"))
 (setq-default serial-name-history '("COM1"))
 (setq-default serial-speed-history '("9600" "1200" "2400" "4800" "14400" "19200" "28800" "38400" "57600" "115200"))
+(setq-default smex-history '(menu-bar-mode R S S+ cd 5x5 S+3))
