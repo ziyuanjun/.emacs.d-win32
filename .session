@@ -1,0 +1,8 @@
+;;; Automatically generated on Sat Feb 18 10:57:49 2017
+;;; Invoked by ZY@Y-A0000C377FC84 using 25.1.1
+(setq-default session-file-alist '(("~/.emacs.d/custom-set-variables.el" 1 nil 1 nil nil 1728 (overwrite-mode))))
+(setq-default file-name-history '("~/.emacs.d/.gitignore" "~/.emacs.d/custom-set-variables.el"))
+(setq-default coding-system-history '("utf-8"))
+(setq-default occur-collect-regexp-history '("\\1"))
+(setq-default serial-name-history '("COM1"))
+(setq-default serial-speed-history '("9600" "1200" "2400" "4800" "14400" "19200" "28800" "38400" "57600" "115200"))
